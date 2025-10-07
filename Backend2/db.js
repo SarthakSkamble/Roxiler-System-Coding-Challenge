@@ -30,6 +30,7 @@ console.log("✅ Connected to MySQL database");
 //     owner_id INT,
 //     name VARCHAR(100) NOT NULL,
 //     email VARCHAR(100),
+       
 //     address VARCHAR(255) NOT NULL,
 //     avg_rating DECIMAL(3,2) DEFAULT 0.00,
 //     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
